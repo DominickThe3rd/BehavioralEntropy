@@ -7,3 +7,6 @@
 
 *I have no affiliation nor association with any company, govt or organization. I have no fiduciary interest here.*
 *All I ask, is that if you take some of the material, that you try to make good use of it rather than let it rot in some archive that no one will ever access.*
+
+
+**UPDATED**: 2026-10-26 | Added **Calibraster_v32.json** ; *A hybrid schema instruction set for frontier A.I. models that prioritizes honest engagement, meta-communication & the recovery process.*
