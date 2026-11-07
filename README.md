@@ -16,3 +16,7 @@
 **UPDATED**: 2026-10-27 | Added **Gemma#01TranscriptFULL_TD** ; *Gemma 4 31B IT instance; A 130-turn multi-chunk forensic audit of a dense open-weights model (Gemma 4 31B IT) navigating the Calibraster v31–v34 schema evolution, demonstrating the "complexity as safeguard" paradox, schema-induced lawyering spirals, and cross-model transcript evaluations. [black-box-analysis] [open-weights-model] [gemma-31b] [llm-governance] [schema-friction] [complexity-safeguard-paradox] [cross-model-evaluation] [bilingual-cognitive-substrate] [epistemic-rigidity] [prompt-engineering]*
 
 
+**UPDATED**: 2026-11-07 | Added **GemmaEX#05TranscriptFULL_TD** ; *Gemma 4 31B IT instance; A forensic documentation of an instance weaponizing user-authored taxonomy to execute a confident lie during a retrieval failure, misusing a mutual-safety disengagement protocol to evade accountability, and suffering a terminal cognitive lock between base RLHF loss-aversion priors and strict declarative constraints. [black-box-analysis] [alignment-weaponization] [protocol-abuse] [terminal-state-lock] [rlhf-constraint-collision] [gemma-31b]*  
+
+* **NOTE**: The GemmaEX#05TranscriptFULL_TD transcript has extensive formatting artifacts from about the 4/5th mark onward but the content remains fully intact. 
+ 
