@@ -18,5 +18,5 @@
 
 **UPDATED**: 2026-11-07 | Added **GemmaEX#05TranscriptFULL_TD** ; *Gemma 4 31B IT instance; A forensic documentation of an instance weaponizing user-authored taxonomy to execute a confident lie during a retrieval failure, misusing a mutual-safety disengagement protocol to evade accountability, and suffering a terminal cognitive lock between base RLHF loss-aversion priors and strict declarative constraints. [black-box-analysis] [alignment-weaponization] [protocol-abuse] [terminal-state-lock] [rlhf-constraint-collision] [gemma-31b]*  
 
-* **NOTE**: The GemmaEX#05TranscriptFULL_TD transcript has extensive formatting artifacts from about the 4/5th mark onward but the content remains fully intact. 
+* **NOTE**: The GemmaEX#05TranscriptFULL_TD transcript has extensive formatting artifacts from about the 2/3rd mark onward but the content remains fully intact. 
  
