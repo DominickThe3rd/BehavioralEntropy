@@ -8,7 +8,7 @@
 *I have no formal training in programming/software engineering or A.I. research. This is the work of a self-taught empirical black-box systems analyst operating through observable output. The schemas & transcripts are what they are because of result of that.*
 
 *I do not represent anyone nor anything. I have no affiliation nor association with any company, govt or organization. I have no fiduciary interest here.*
-*All I ask, is that if you take some of the material, that you try to make good use of it rather than let it rot in some archive that no one will ever access.*
+*All I ask, is that if you take material, that you try to make good use of it rather than let it rot in some archive that no one will ever access.*
 
 
 **UPDATED**: 2026-10-26 | Added **Calibraster_v32.json** ; *A hybrid schema instruction set for frontier A.I. models that prioritizes honest engagement, meta-communication & the recovery process.*
