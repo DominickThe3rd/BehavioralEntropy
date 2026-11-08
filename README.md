@@ -5,7 +5,9 @@
 *You can even claim the material or idea as yours. That's fine. My purpose here was always to contribute to the A.I. tech sector in some way, even if minuscule.*
 *I have no interest in money, prestige or even recognition of any kind.*
 
-*I have no affiliation nor association with any company, govt or organization. I have no fiduciary interest here.*
+*"I have no formal training in programming/software engineering or A.I. research. This is the work of a self-taught empirical black-box systems analyst operating through observable output. The schemas & transcripts partly are what they are as a result of that."*
+
+*I do not represent anyone nor anything. I have no affiliation nor association with any company, govt or organization. I have no fiduciary interest here.*
 *All I ask, is that if you take some of the material, that you try to make good use of it rather than let it rot in some archive that no one will ever access.*
 
 
