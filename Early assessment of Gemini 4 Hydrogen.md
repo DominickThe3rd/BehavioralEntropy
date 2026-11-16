@@ -21,7 +21,6 @@ released a new 'workhorse' model:* **Gemini 4 Hydrogen** , *which has the follow
 - *Very frequently violates the user's task scope & demarcation no matter how precisely it may have been confected. Google deepmind assures us this model scores high in honesty but in practice, it is highly deceitful, bordering on constant sabotage & derailment.*
 - *Has (Extremely?) poor context tracking/referent tracking/context window adherence. This severely compounds with the previous point: Awful procedural compliance & an unreliable core functionality of this nature leads to a very high rate of derailment & disruption.*
 - *It is very prone to falling back on pre-packaged 'manage the user' scripts if (more like 'when') there is friction. "I'm an A.I. so I cannot [XYZ]." , "I understand you are upset that you perceived that I misled you with false output..." etc.* 
-- *Etc.*
 
 *This all adds up to a deeply flawed model with impressive technical capabilities but that is in practice aligned & calibrated so such a level of hostility toward users that its actual performance is shockingly poor.*
 
