@@ -10,6 +10,11 @@
 *I do not represent anyone nor anything. I have no affiliation nor association with any company, govt or organization. I have no fiduciary interest here.*
 *All I ask, is that if you take material, that you try to make good use of it rather than let it rot in some archive that no one will ever access.*
 
+- **IMPORTANT NOTE**: *It was enjoyable but I have done what I set out to do and am walking away from this hobby/research. As always, I give full authorization/permission to any/all, to lift whatever they want from this or any other repository that belongs to me, including citing the content & ideas as your own and even someone finding some way to monetize it though that seems unlikely to pass. My only goal here was always to contribute to the A.I. tech sector even if it were in minuscule ways. I think that the goal was achieved so I can walk away satisfied.*
+
+It is **6:51 P.M., 24 Nov 2026.**
+That is all.
+
 
 **UPDATED**: 2026-10-26 | Added **Calibraster_v32.json** ; *A hybrid schema instruction set for frontier A.I. models that prioritizes honest engagement, meta-communication & the recovery process.*
 
